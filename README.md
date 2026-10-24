@@ -13,11 +13,4 @@ Email Me 👉 ✉️ **bikrantsharmaa@gmail.com** For Collaboration/Project or A
 
 
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bikrant9599&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
