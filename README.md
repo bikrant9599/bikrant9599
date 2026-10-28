@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm BIKRANT SHARMA
+#  Hi 👋, I'm BIKRANT SHARMA
 I am a passionate software developer and B.Tech Computer Science student specializing in web development, mobile applications, and custom software solutions. I work with Flutter, JavaScript, NestJS, MongoDB, and REST APIs to build modern, responsive, and user-friendly applications. I focus on clean UI/UX, reliable functionality, and delivering quality solutions that meet client requirements. I am always eager to learn new technologies and turn ideas into practical digital products
 
 Email Me 👉 ✉️ **bikrantsharmaa@gmail.com** For Collaboration/Project or Anything Else. 😊😊
