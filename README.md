@@ -3,7 +3,6 @@ I am a passionate software developer and B.Tech Computer Science student special
 
 Email Me  ✉️ **bikrantsharmaa@gmail.com** For Collaboration/Project or Anything Else. 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikrantt-sharma-9570aa344/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/BIkranttSharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrantsharmaa@gmail.com) 
 
