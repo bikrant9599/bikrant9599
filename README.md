@@ -2,6 +2,7 @@
 I am a passionate software developer and B.Tech Computer Science student specializing in web development, mobile applications, and custom software solutions. I work with Flutter, JavaScript, NestJS, MongoDB, and REST APIs to build modern, responsive, and user-friendly applications. I focus on clean UI/UX, reliable functionality, and delivering quality solutions that meet client requirements. I am always eager to learn new technologies and turn ideas into practical digital products.
 
 
+
 Email Me  ✉️ **bikrantsharmaa@gmail.com** For Collaboration/Project or Anything Else. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikrantt-sharma-9570aa344/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/BIkranttSharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrantsharmaa@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/coderbikrant/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/design/BIOlUlwO4NEoQDUqHa5Muk/Untitled) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/bikrantsharmaa/)
